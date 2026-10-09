@@ -1,4 +1,9 @@
 # schedule-web-scraper
+
+![Visualization of all Drexel classes for one week](images/one-week-all-classes.jpg)
+
+A visualization of all classes for one week. Shared on Reddit: [r/Drexel post](https://www.reddit.com/r/Drexel/s/cqPUfhUXLN)
+
 Fetches Drexel University's public class information and returns .ics files for easy import to anyone's calendar of choice.  
 Example of scrapeable webpage: https://termmasterschedule.drexel.edu/webtms_du/collegesSubjects/202345?collCode=
 
